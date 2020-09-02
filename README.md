@@ -1,5 +1,6 @@
 # weather-fetcher
 <h1>Displays the current temperature for any specified city.</h1>
+<p>Uses the OpenWeatherMap API -- https://openweathermap.org/api</p>
 <p>Added Features:</p>
   <ul>    
   <li>Feels Like temperature for any specified city</li>
